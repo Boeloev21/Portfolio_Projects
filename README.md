@@ -15,7 +15,7 @@ Technologies Used:
 - Python
 - Libraries/Frameworks Used (Pandas, NumPy, Scikit-learn)
 
-[Link to Project 1 Notebook](link/to/project1.ipynb)
+[Link to Project 1 Notebook](Project 1 - Predicting Housing Prices in King County USA_Machine_Learning.ipynb)
 
 ## Project 2: House Sales in King County USA
 
