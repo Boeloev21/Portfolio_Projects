@@ -38,4 +38,3 @@ Your feedback is highly appreciated! If you have any suggestions, questions, or 
 
 ---
 
-Feel free to customize it further according to your specific projects and preferences!
