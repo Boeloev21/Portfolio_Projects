@@ -6,6 +6,7 @@ Welcome to my portfolio projects showcase! This repository contains a collection
 
 1. Predicting Housing Prices in King County USA
 2. Extracting and visualizing stock data
+3. SpaceX Launch success prediction
 
 ## Project 1: Predicting Housing Prices in King County USA
 
@@ -26,6 +27,29 @@ Technologies Used:
 - Libraries/Frameworks Used (Pandas, NumPy, Scikit-learn)
 
 ([link/to/Project 2 - Extract and Visualize Stock Data.ipynb](https://github.com/Boeloev21/Portfolio_Projects/blob/70246a50af1c0c96e4805a46c57ae233a651c240/Project%202%20-%20Extract%20and%20Visualize%20Stock%20Data.ipynb))
+
+## Project 3: SpaceX launch success prediction
+
+Description: Our data science project aims to predict the success or failure of SpaceX Falcon 9 launches by leveraging historical launch data from both the SpaceX API and the SpaceX launches Wikipedia page. The project unfolds through several key steps:
+
+1. Data Collection: We gather launch data from the SpaceX API, ensuring a comprehensive dataset for analysis.
+2. Web Scraping: Additional data is extracted from the SpaceX Wikipedia page through web scraping techniques, enriching our dataset with contextual information.
+3. Data Wrangling: The collected data undergoes meticulous wrangling to ensure consistency, accuracy, and compatibility for further analysis.
+4. Exploratory Data Analysis (EDA) with SQL: Utilizing SQL, we conduct exploratory data analysis to uncover patterns, trends, and insights within the dataset,     
+   facilitating a deeper understanding of launch dynamics.
+5. EDA and Data Visualization: Further exploratory data analysis is performed, coupled with data visualization techniques, to visually represent key findings and 
+   trends, making complex information more accessible and actionable.
+6. Geographical Data Visualization with Folium: Geographical aspects of launch locations are visualized using Folium, enhancing our understanding of launch 
+   distributions and their spatial relationships.
+7. Machine Learning Classification Model: Finally, a machine learning classification model is developed to predict the success or failure of Falcon 9 launches 
+   based on historical data. Leveraging features extracted from the dataset, the model offers insights into factors influencing launch outcomes and provides 
+   valuable predictive capabilities for future missions.
+
+Technologies Used:
+- Python
+- Libraries/Frameworks Used (Pandas, NumPy, Matplotlib, Folium, Scikit-learn)
+
+([link/to/Project 3 - SpaceX launch success prediction](https://github.com/Boeloev21/Portfolio_Projects/tree/ffc4259da28b6234e17bfc5fe578ffbeafdc0c0f/Project%203%20-%20SpaceX%20Launch%20Prediction))
 
 ## Usage
 
