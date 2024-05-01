@@ -15,7 +15,7 @@ Technologies Used:
 - Python
 - Libraries/Frameworks Used (Pandas, NumPy, Scikit-learn)
 
-[Link to Project 1 Notebook]([link/to/Project 1 - Predicting Housing Prices in King County USA_Machine_Learning.ipynb](https://github.com/Boeloev21/Portfolio_Projects/blob/56c0ad4845e754012ef4833efda9e8e8410c73b8/Project%201%20-%20Predicting%20Housing%20Prices%20in%20King%20County%20USA_Machine_Learning.ipynb))
+([link/to/Project 1 - Predicting Housing Prices in King County USA_Machine_Learning.ipynb](https://github.com/Boeloev21/Portfolio_Projects/blob/56c0ad4845e754012ef4833efda9e8e8410c73b8/Project%201%20-%20Predicting%20Housing%20Prices%20in%20King%20County%20USA_Machine_Learning.ipynb))
 
 ## Project 2: Extracting and Visualizing stock data
 
@@ -25,7 +25,7 @@ Technologies Used:
 - Python
 - Libraries/Frameworks Used (Pandas, NumPy, Scikit-learn)
 
-[Link to Project 1 Notebook] ([link/to/Project 2 - Extract and Visualize Stock Data.ipynb](https://github.com/Boeloev21/Portfolio_Projects/blob/70246a50af1c0c96e4805a46c57ae233a651c240/Project%202%20-%20Extract%20and%20Visualize%20Stock%20Data.ipynb))
+([link/to/Project 2 - Extract and Visualize Stock Data.ipynb](https://github.com/Boeloev21/Portfolio_Projects/blob/70246a50af1c0c96e4805a46c57ae233a651c240/Project%202%20-%20Extract%20and%20Visualize%20Stock%20Data.ipynb))
 
 ## Usage
 
