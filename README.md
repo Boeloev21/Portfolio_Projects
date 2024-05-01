@@ -30,7 +30,7 @@ Technologies Used:
 
 ## Project 3: SpaceX launch success prediction
 
-Description: Our data science project aims to predict the success or failure of SpaceX Falcon 9 launches by leveraging historical launch data from both the SpaceX API and the SpaceX launches Wikipedia page. The project unfolds through several key steps:
+Description: This project aims to predict the success or failure of SpaceX Falcon 9 launches by leveraging historical launch data from both the SpaceX API and the SpaceX launches Wikipedia page. The project unfolds through several key steps:
 
 1. Data Collection: We gather launch data from the SpaceX API, ensuring a comprehensive dataset for analysis.
 2. Web Scraping: Additional data is extracted from the SpaceX Wikipedia page through web scraping techniques, enriching our dataset with contextual information.
