@@ -5,7 +5,6 @@ Welcome to my portfolio projects showcase! This repository contains a collection
 ## Table of Contents
 
 1. Predicting Housing Prices in King County USA
-2. House Sales in King County USA
 
 ## Project 1: Predicting Housing Prices in King County USA
 
@@ -15,17 +14,7 @@ Technologies Used:
 - Python
 - Libraries/Frameworks Used (Pandas, NumPy, Scikit-learn)
 
-[Link to Project 1 Notebook](Project 1 - Predicting Housing Prices in King County USA_Machine_Learning.ipynb)
-
-## Project 2: House Sales in King County USA
-
-Description: This exploratory data analysis (EDA) project aims to identify which features are most useful for predicting housing prices in King County, USA. By analyzing a comprehensive dataset containing various attributes of houses in the region, including but not limited to the number of rooms, floor area, location, amenities, and property characteristics, the goal is to uncover correlations, patterns, and insights that can inform the development of predictive models. Through visualization techniques, statistical analysis, and data exploration, this project seeks to prioritize the most influential features and lay the foundation for subsequent predictive modeling efforts. The findings of this EDA endeavor could provide valuable guidance to stakeholders in the real estate industry, enabling them to better understand the dynamics of the housing market in King County and make data-driven decisions regarding property valuation and investment.
-
-Technologies Used:
-- Python
-- Libraries/Frameworks Used (Numpy, Pandas, Matplotlib, Seaborn)
-
-[Link to Project 2 Notebook](link/to/project2.ipynb)
+[Link to Project 1 Notebook](link/to/Project 1 - Predicting Housing Prices in King County USA_Machine_Learning.ipynb)
 
 ## Usage
 
