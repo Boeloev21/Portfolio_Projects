@@ -7,6 +7,7 @@ Welcome to my portfolio projects showcase! This repository contains a collection
 1. Predicting Housing Prices in King County USA
 2. Extracting and visualizing stock data
 3. SpaceX Launch success prediction
+4. Binary image classifier with Scikit-learn
 
 ## Project 1: Predicting Housing Prices in King County USA
 
