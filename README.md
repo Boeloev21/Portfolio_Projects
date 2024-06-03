@@ -51,6 +51,28 @@ Technologies Used:
 
 ([link/to/Project 3 - SpaceX launch success prediction](https://github.com/Boeloev21/Portfolio_Projects/tree/ffc4259da28b6234e17bfc5fe578ffbeafdc0c0f/Project%203%20-%20SpaceX%20Launch%20Prediction))
 
+## Project 4: Binary Image Classification with Scikit-learn
+
+Description:
+This project aims to classify binary images into two distinct categories (people wearing masks, versus not wearing masks) using four different machine learning models: Naive Bayes, Stochastic Gradient Descent, Logistic Regression, and Support Vector Machine. The project involves several critical steps:
+
+1. Data Collection: We gather a dataset of binary images from relevant sources, ensuring a sufficient amount of data for training and testing.
+2. Data Preprocessing: The collected images undergo preprocessing steps such as resizing, normalization, and conversion to grayscale to ensure consistency and optimal performance of the models.
+3. Feature Extraction: Relevant features are extracted from the images using techniques like Histogram of Oriented Gradients (HOG) and pixel intensity values, transforming the images into a suitable format for model training.
+4. Model Training and Evaluation: Four different machine learning models—Naive Bayes, Stochastic Gradient Descent, Logistic Regression, and Support Vector Machine—are trained on the preprocessed and feature-extracted data. Each model is evaluated using appropriate metrics to determine its performance.
+5. Hyperparameter Tuning: Hyperparameters for each model are tuned to optimize performance, utilizing techniques such as grid search and cross-validation.
+6. Model Comparison: The performance of the different models is compared using metrics like accuracy.
+
+Technologies Used:
+- Python
+- Libraries/Frameworks: 
+  - Pandas
+  - NumPy
+  - Matplotlib
+  - Scikit-learn
+
+([link/to/Project 4 - Binary Image Classifier](https://github.com/Boeloev21/Portfolio_Projects/tree/ea8f67f077cded8dd4a7f84d0f95b93ba626d7f6/Project%204%20-%20Binary%20Image%20Classifier%20using%20Scikit-learn))
+
 ## Usage
 
 To run the notebooks locally, you will need Jupyter Notebook installed. You can install it using pip:
